@@ -17,6 +17,71 @@ format:
     footer: 'Why do startups fail?'
     background-color: '#f2faff'
 ---
+
+### External factors also play a role in the failure of startups (1/2) {background="#f2faff"}
+
+.
+
+"Startups don’t fail only due to internal mistakes—external factors play a major role."
+
+**2009-2012 Post-Crisis Boom**
+
+"After the 2008 financial crisis, startups surged, peaking at 62 new formations in 2012. The optimism led to 326 active startups by 2015."
+
+---
+
+### External factors also play a role in the failure of startups (2/2) {background="#f2faff"}
+
+.
+
+**2020-2022 COVID-19 Impact**
+
+"The pandemic disrupted markets, causing a spike in startup closures—64 in 2020 alone. Many faced supply chain issues, shifting consumer behavior, and funding challenges."
+
+**What's Next?**
+
+"The future brings economic shifts, AI-driven consumer trends, and policy changes. Post-2025 U.S. tariffs or stricter data laws may force startups to pivot strategies."
+
+---
+
+### Conclusions {background="#f2faff"}
+
+•	"Competition is a top failure factor—70% of startups struggle."
+
+.
+
+•	"Sector-specific challenges exist—Food Services (52% high costs), Manufacturing (55% budget issues), Healthcare (40% poor market fit)."
+
+.
+
+•	"Funding matters—low-funded startups struggle with market fit (26%), while high-funded ones face execution flaws (23%)."
+
+
+---
+
+### Recommendations {background="#f2faff"}
+
+•	"Founders need flexible strategies to handle market shifts, learning from post-2015 saturation."
+
+.
+
+•	"Investors should focus on mentorship, market access, and operational guidance."
+
+.
+
+•	"Startups must anticipate policy shifts, adjusting strategies through local sourcing or privacy-focused solutions."
+
+
+---
+
+### Closing {background="#43464B" background-image="images/closing.jpg"}
+
+.
+
+.
+---
+
+--
 ## Problem introduction {background="#f2faff"}
 
 <br></br>
